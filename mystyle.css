@@ -1,0 +1,12 @@
+body{
+    background-color: #FFBF00;
+}
+.centerdiv{
+    display: flex;
+    justify-content: center;
+}
+.uploadInfo{
+    font-weight: lighter;
+    font-size: 12px;
+    text-align: center;
+}
